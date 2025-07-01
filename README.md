@@ -40,11 +40,11 @@ A web-based tool to visualize the operation of a Pushdown Automaton (PDA) and it
 ## File Structure
 
 - `index.html` — Main HTML file and UI
-<<<<<<< HEAD
+
 - `js/pda.js` — PDA logic and simulation
 - `js/visualizer.js` — Stack and trace visualization
 - `js/main.js` — App initialization and event handling
-=======
+
 - `pda.js` — PDA logic and simulation
 - `visualizer.js` — Stack and trace visualization
 - `main.js` — App initialization and event handling
@@ -54,14 +54,5 @@ A web-based tool to visualize the operation of a Pushdown Automaton (PDA) and it
 - Modern web browser (no installation needed)
 
 ## Credits
-<<<<<<< HEAD
 - Developed by Huzaifa (Apna College project)
 
----
-
-Feel free to fork, modify, and use for learning or teaching automata theory!
-=======
-- Developed by Huzaifa 
-
-
->>>>>>> daadfcbf66b6817a496db91bf4eed0ccf0ff18b0
